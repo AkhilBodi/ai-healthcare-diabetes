@@ -163,7 +163,3 @@ This project operationalises the findings from the research report *"Exploring t
 ## License
 
 MIT License — free to use for academic purposes.
-
----
-
-*Project submitted as part of the M.Sc. Data Science programme, Chandigarh University, 2025–2026.*
