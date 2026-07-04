@@ -1,11 +1,5 @@
 # AI-Powered Diabetes Prediction System
 ### Exploring the Impact of Artificial Intelligence on Healthcare
-
-**Author:** Sai Saratchandra Phaneendra Akhil  
-**University ID:** O24MSD110034  
-**Programme:** M.Sc. (Hons.) in Data Science — Chandigarh University  
-**Academic Year:** 2025–2026  
-
 ---
 
 ## Project Overview
